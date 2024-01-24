@@ -1,0 +1,16 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Backend dependencies
+/backend/node_modules
+# Backend private files
+/backend/package.json
+/backend/package-lock.json
+/backend/Database.js
+/backend/.env
+
+# Frontend dependencies
+/frontend/node_modules
+# Frontend private files
+/frontend/package.json
+/frontend/package-lock.json
+/frontend/.env
